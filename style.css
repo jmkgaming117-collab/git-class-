@@ -4,12 +4,12 @@ table
     border-collapse: collapse;
     background-color: blanchedalmond;
     margin: auto;
-    
+    font-size: 20px;
 }
 th,td{
     padding: 6px 25px;
     border: 2px solid black;
-    width: 500px;
+    width: 300px;
     text-align: center;
     transition: 0.3s;
 }
@@ -27,7 +27,7 @@ h1{
 h1:hover{
     color: #000000;
     text-shadow: 0 0 10px #161618;
-    transform: scale(1.05);
+    transform: scale(1.115);
 }
 
 
