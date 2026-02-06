@@ -1,0 +1,36 @@
+table
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+    margin: auto;
+    
+}
+th,td{
+    padding: 6px 25px;
+    border: 2px solid black;
+    width: 500px;
+    text-align: center;
+    transition: 0.3s;
+}
+th:hover,td:hover {
+    background-color: rgba(0, 0, 0, 0.856);
+    color:rgb(255, 255, 255);
+    cursor: pointer;
+    transform: scale(1.1);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    transition: 0.3s;
+}
+h1:hover{
+    color: #0407d1;
+    text-shadow: 0 0 10px #161618;
+    transform: scale(1.05);
+}
+
+
+
+
+
